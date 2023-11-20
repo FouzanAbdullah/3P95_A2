@@ -1,5 +1,10 @@
 # 3P95_A2
 
+| Group Member  | Student Number |
+| ------------- | ------------- |
+| Fouzan Abdullah  | 6840797 |
+| Basim Ahmad  | 7022494  |
+
 In order to run the code, open the Assign2 folder as a project in the IDE of your choice. Ensure all packages are installed on your system.
 
 For Question 1:
